@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Dynamic Pricing for Urban Parking Lots
 
 - Capstone Project — **Summer Analytics 2025**  
@@ -80,3 +81,6 @@ pw.io.csv.read(csv_path, mode="streaming", autocommit_duration_ms=2000)
 
 
 
+=======
+# smart-parking-pricing
+>>>>>>> aaa534da68e991bf13d96e5dfd6cd7d3bd9e10b9
