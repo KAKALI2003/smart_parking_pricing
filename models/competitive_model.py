@@ -65,7 +65,7 @@ def suggest_rerouting(occupancy, capacity, nearby_lots):
     if occupancy < capacity:
         return False
     for lot in nearby_lots:
-        if lot['price'] < 10:  # your base price
+        if lot['price'] < 10:  # base price = 10
             return True
     return False
 
