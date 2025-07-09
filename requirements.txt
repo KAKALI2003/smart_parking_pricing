@@ -1,0 +1,5 @@
+
+numpy>=1.23
+pandas>=1.5
+pathway>=0.7.2
+bokeh>=3.4
